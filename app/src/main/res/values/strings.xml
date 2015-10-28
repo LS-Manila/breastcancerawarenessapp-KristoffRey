@@ -1,0 +1,107 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Breast Cancer Awareness</string>
+
+    <string-array name="info_title">
+        <item>Structure of the Normal Breast</item>
+        <item>What is Breast Cancer?</item>
+        <item>Origin of "Cancer"</item>
+        <item>Causes</item>
+    </string-array>
+
+    <string-array name="info_text">
+        <item>\t\tThe female breast is made up mainly of milk-producing glands called lobules, tubes that carry the milk in the lobules to the nipples called ducts, and fatty and connecteive tissue called stroma. For a visual representation, please refer to the image below.</item>
+        <item>\t\tGenerally, a cancer starts when cells begin to grow out of control. Cells in nearly any part of the body can become cancer, and these cells can spread to other areas of the body.</item>
+        <item>\t\tThe origin of the word cancer is credited to the Greek physician Hippocrates, who is considered the “Father of Medicine.” He used the terms carcinos and carcinoma to describe non-ulcer forming and ulcer-forming tumors. In Greek, these words refer to a crab, because the finger-like spreading projections from a cancer called to mind the shape of a crab. The Roman physician, Celsus, later translated the Greek term into cancer, the Latin word for crab. Galen, another Greek physician, used the word oncos (Greek for swelling) to describe tumors. Although the crab analogy of Hippocrates and Celsus is still used to describe malignant tumors, Galen’s term is now used as a part of the name for cancer specialists – oncologists.</item>
+        <item>\t\tEven in the 21st century, the experts still cannot pinpoint the cause of breast cancer, however, they do know for sure that breast cancer is directly related to having a damaged DNA in a cell.\n
+\t\tThe lymph system is important to understand because it is one way breast cancers can spread. This system’s part are found in the picture on this page.</item>
+    </string-array>
+
+    <string-array name="info_text2">
+        <item></item>
+        <item>\t\tBreast cancer is a malignant tumor that starts in the cells of the breast. A malignant tumor is a group of cancer cells that can and eventually will invade surrounding tissues or spread or metastasize to distant areas of the body. Breast cancer typically occur among women, although it is not impossible for men to have this disease too!</item>
+        <item>\t\tThe oldest description of cancer (although the word cancer was not used) was discovered in Egypt and dates back to about 3000 BC. It’s called the Edwin Smith Papyrus and is a copy of part of an ancient Egyptian textbook on trauma surgery. It describes 8 cases of tumors or ulcers of the breast that were removed by cauterization with a tool called the fire drill. The writing says about the disease, “There is no treatment.”</item>
+        <item>\t\tLymph nodes are small, bean-shaped collections of immune system cells that are connected by lymphatic vessels. Lymphatic vessels are like small veins, except that they carry a clear fluid called lymph away from the breast. Lymph contains tissue fluid and waste products, as well as immune system cells. Breast cancer cells can enter lymphatic vessels and begin to grow in lymph nodes.</item>
+    </string-array>
+
+    <string-array name="treat_title">
+        <item>Surgery</item>
+        <item>Radiation Therapy</item>
+        <item>Chemotherapy</item>
+        <item>Hormone therapy for breast cancer</item>
+        <item>Bone-directed therapy for breast cancer</item>
+    </string-array>
+
+    <string-array name="treat_text">
+        <item>\t\tA type of surgery involves partially or completely removing the breast affected by the cancer cells. One is called the breast conserving surgery called mastectomy and the other called total mastectomy. </item>
+        <item>\t\tRadiation therapy is treatment with high-energy rays or particles that destroy cancer cells. Radiation to the breast is often given after breast-conserving surgery to help lower the chance that the cancer will come back in the breast or nearby lymph nodes. Radiation may also be recommended after mastectomy in patients either with a cancer larger than 5 cm, or when cancer is found in the lymph nodes.</item>
+        <item>\t\tChemotherapy (chemo) is treatment with cancer-killing drugs that may be given intravenously (injected into a vein) or by mouth. The drugs travel through the bloodstream to reach cancer cells in most parts of the body. Chemo is given in cycles, with each period of treatment followed by a recovery period. Treatment usually lasts for several months.</item>
+        <item>\t\tHormone therapy is another form of systemic therapy. It is often to help reduce the risk of the cancer coming back after surgery. It is also used to treat cancer that has come back after treatment or has spread. A woman\'s ovaries are the main source of the hormone estrogen until menopause. Estrogen promotes the growth of cancers that are hormone receptor-positive. About 2 out of 3 of breast cancers are hormone receptor-positive - they contain receptors for the hormones estrogen (ER-positive cancers) and/or progesterone (PR-positive cancers).</item>
+        <item>\t\tWhen cancer spreads to bones, it can cause pain and lead to bones breaking (fractures) and other problems. Drugs like bisphosphonates and denosumab can lower the risk of these problems.</item>
+    </string-array>
+
+    <string-array name="treat_text2">
+        <item>\t\tOf course there are multiple variations of the surgery but they all revolve around these approaches.
+The image above gives a visual representation of the mastectomy of the breast.</item>
+        <item>\t\tThere are two methods in applying this therapy, either by destroying the cancer cells from the outside, called “external beam radiation” or by destroying the cancer cells from the inside, called “brachytherapy”.</item>
+        <item></item>
+        <item>\t\tMost types of hormone therapy for breast cancer either lower estrogen levels or stop estrogen from acting on breast cancer cells. This kind of treatment is helpful for hormone receptor-positive breast cancers, but it does not help patients whose tumors are hormone receptor negative (both ER- and PR-negative).</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="myt_title">
+        <item>MYTH\nMost women with breast cancer have a family history of the disease</item>
+        <item>TRUTH\nWe don\'t know how to prevent breast cancer</item>
+        <item>MYTH\nMen don\'t get breast cancer</item>
+        <item>MYTH\nIn terms of survival, removing the entire breast is better than just removing the cancer and having radiation treatment</item>
+        <item>TRUTH\nWhen breast cancer shows up on a mammogram, it may have been in your body for 6-10 years</item>
+        <item>MYTH\nOnce diagnosed with breast cancer, it\'s very important to make treatment decisions immediately</item>
+        <item>TRUTH\nRisk of breast cancer increases with age; 50% of breast cancer occurs among women aged 62 years or older</item>
+        <item>MYTH\nWith new treatments we can now cure breast cancer</item>
+        <item>TRUTH\nI can make a difference</item>
+        <item>MYTH\nMonthly breast self exams save lives</item>
+    </string-array>
+
+    <string-array name="myt_text">
+        <item>\t\tAround 75 percent of women with breast cancer have no family history of the disease and around 10% have a gene mutation for increasing risks.</item>
+        <item>\t\tThere are factors associated with increasing risk of breast cancer and certain factors that decrease the risk of breast cancer, but we do not know how to prevent breast cancer.
+Don\'t eat red meat. Eat a low fat diet. Don\'t wear deodorant. Don\'t sleep in a bra.</item>
+        <item>\t\tIt was estimated on 2010, 1,970 cases of breast cancer will be diagnosed in men.
+Of the approximate 40,230 deaths from breast cancer that year, an estimated 390 of them will be men.</item>
+        <item>\t\tCompletely removing the breast—known as mastectomy—is usually not more effective than just taking out the cancer—known as lumpectomy.</item>
+        <item>\t\tWhat is early detection? We probably think of it as early enough to intervene and save a life. But there are different kinds of breast cancer.</item>
+        <item>\t\tIt is normal to feel a treatment decision must be made right away, but taking time to decide on an appropriate course of action may be time very well spent.</item>
+        <item>\t\tBreast cancer is primarily a disease of older women, with the median age of diagnosis at 61 years of age.</item>
+        <item>\t\tWe still do not know how to cure breast cancer. We do have more treatment options and more targeted therapy, but we don\'t understand the disease well enough to know for certain which cancers will come back and/or spread, and which cancers will not.</item>
+        <item>\t\tNo matter what your role—advocate, educated patient, supporter of a loved one, or informed consumer of news and research—you can use your knowledge and your voice in the mission to end breast cancer.</item>
+        <item>\t\tThe evidence actually shows that breast self-exam (BSE) does not save lives or detect breast cancer at an earlier stage.</item>
+    </string-array>
+
+    <string-array name="myt_text2">
+        <item>\t\tThe risk for developing breast cancer increases directly with the number of affected relatives, but most of these women will never get breast cancer.</item>
+        <item>\t\tWomen are bombarded constantly on what they can do to prevent breast cancer. Unfortunately, at this time, there is no known way to prevent the disease. Current factors known to contribute to overall breast cancer risk are mostly uncontrollable, including age, personal and family breast cancer history, certain genetic factors, first menstrual period before age 12, menopause after 55, breast density and race. A few factors that can be controlled that have shown increased risk include obesity, alcohol consumption and lack of physical activity.</item>
+        <item>\t\tFor males, the lifetime risk of getting breast cancer is about 1/10th of 1%.</item>
+        <item>\t\tThere are issues with both treatments, and patients need to be informed to make the right decision for them.</item>
+        <item>\t\tFor some of them, if they are surgically removed, the breast cancer has been effectively "cured." For others, it can be found really early, yet no known intervention will "cure" it. Complicated? Yes. But the truth about breast cancer is just that.</item>
+        <item></item>
+        <item>\t\tIt is estimated that a woman age 20 has about a 5 in 10,000 risk of developing breast cancer in the next 10 years; for a woman age 40, it is about 1 in 100, and for a woman age 60, it is about 1 in 28.</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="about">About Breast Cancer</string>
+    <string name="treatment">Treatments</string>
+    <string name="myth_truth">Myths and Truths!</string>
+    <string name="find_doctor">Find a Doctor</string>
+    <string name="contact">Contact the Developer</string>
+    <string name="help_text">About the Application</string>
+
+    <string name="title_template_step">Step <xliff:g id="step_number">%1$d</xliff:g>: Filler Text</string>
+
+    <string name="action_previous">Previous</string>
+    <string name="action_finish">Finish</string>
+    <string name="action_next">Next</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

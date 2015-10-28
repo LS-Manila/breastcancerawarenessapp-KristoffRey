@@ -1,0 +1,45 @@
+This application was developed in partial fullfillment of the requirements in CPEPROG. A HUGE portion of the information found in this application was researched online and the sources will be listed below on this page. This is to preserve the validity of the data since the sole objective of this project is to develop and application to inform users about breast cancers.
+
+This application is intended to integrate what the student has learned in the programming laboratory and lecture into one application that aims to inform its users more about Breast Cancer and why it is a serious issue in our community, especially amongst women.
+
+This application has the following features:
+	-A Splash Activity
+	-Implicit Intent
+	-Explicit Intent
+	-Uses the Toast feature
+	-Storing values in an intent
+	-Animations
+	-List Views
+	-Different layout styles
+	-Reading from a .txt file
+	-Fragments
+	-Interface
+	-Page Transformers
+	-Google Maps API (Contains preloaded data points)
+	-Service (Music)
+	-Good UI Design in mind
+	-Validated researched content compiled into the application
+	
+Sources:
+
+Obtained from the American Cancer Society
+http://www.cancer.org/cancer/breastcancer/detailedguide/breast-cancer-what-is-breast-cancer
+http://www.cancer.org/cancer/cancerbasics/thehistoryofcancer/the-history-of-cancer-what-is-cancer
+http://www.cancer.org/cancer/breastcancer/detailedguide/breast-cancer-signs-symptoms
+http://www.cancer.org/cancer/breastcancer/detailedguide/breast-cancer-breast-cancer-types
+http://www.cancer.org/research/cancerfactsstatistics/breast-cancer-facts-figures
+
+Obtained from National Breast Cancer Foundation Inc.
+http://www.nationalbreastcancer.org/causes-of-breast-cancer
+
+Obtained from the Breast Cancer Deadline: 2020 (Used in the myths and truths section)
+http://www.breastcancerdeadline2020.org/breast-cancer-information/myths-and-truths/
+
+Obtained from Health Tap
+https://www.healthtap.com/topics/is-there-a-less-toxic-alternative-to-chemotherapy-for-breast-cancer-treatment
+
+Obtained from The Pregnant Pink Warrior
+http://pregnantpinkwarrior.blogspot.com/2014_08_01_archive.html
+
+Obtained from SlideShare
+http://www.slideshare.net/ESOSLIDES/final-bone-targeted-agents
